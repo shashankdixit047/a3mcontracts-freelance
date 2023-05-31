@@ -199,7 +199,7 @@ preloader
   opacity: 0;
   transform: translate(-50%, -50%);
   animation-name: LoaderCicle;
-  animation-duration: 2s;
+  animation-duration: 0.5s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
@@ -216,7 +216,7 @@ preloader
   opacity: 0;
   transform: translate(-50%, -50%);
   animation-name: LoaderCicle;
-  animation-duration: 2s;
+  animation-duration: 0.5s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
   animation-delay: 1s;
